@@ -6,4 +6,4 @@ As a use case to support and drive the development of scalable modeling of hydro
 This notebook demostrates the setup for a typical WRFHydro model on I-GUIDE platform.
 
 
-[Open Notebook on I-GUIDE](https://www.iguide.geoedf.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FI-GUIDE%2Fcommunity_hydrologic_modeling_wrfhydro&urlpath=lab%2Ftree%2Fcommunity_hydrologic_modeling_wrfhydro%2Figuide_wrfhydro.ipynb+&branch=main)
+[Open Notebook on I-GUIDE](https://jupyter.iguide.illinois.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FI-GUIDE%2Fcommunity_hydrologic_modeling_wrfhydro&urlpath=lab%2Ftree%2Fcommunity_hydrologic_modeling_wrfhydro%2Figuide_wrfhydro.ipynb+&branch=main)
